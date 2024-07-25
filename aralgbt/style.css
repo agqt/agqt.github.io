@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0px;
+    -webkit-text-size-adjust: none;
+}
+
+#term {
+    height: 100vh;
+}
+
+@media screen and (min-width: 500px) {
+    :root {
+        --size: 1.2;
+    }
+}
