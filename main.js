@@ -8,18 +8,17 @@ function timeSince2003() {
     return `${days} days`;
 /*	return `${years} years, ${months} months, ${days} days`; */
 };
-intro_hor = `
-         -/oyddmdhs+:.                 gqt@gentoo-linux
+intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
      -odNMMMMMMMMNNmhy+-'              ----------------
    -yNMMMMMMMMMMMNNNmmdhy+-            OS: Gentoo 2.15 x86_64
  'omMMMMMMMMMMMMNmdmmmmddhhy/'         Host: github.io
  omMMMMMMMMMMMNhhyyyohmdddhhhdo'       Uptime: ${timeSince2003()}
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
- oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    Github: https://github.com/agqt
-  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Discord: gqt
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    
-       /mMMMMMMNNNmmmdddhhhhhmMNhs:    Type help for a list of commands.
-    'oNMMMMMMMNNNmmmddddhhdmMNhs+'    
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    User: Ara (she/her)
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Discord: gqt
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:    
+    'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type help for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
  /NMMMMMMMMNNNNmmmdddmNMNdso:'    
 +MMMMMMMNNNNNmmmmdmNMNdso/-    
@@ -29,8 +28,7 @@ yMMNNNNNNNmmmmmNNMmhs+/-'
   '-//////:--.
 `
 
-intro_vert = `
-         -/oyddmdhs+:.    
+intro_vert = `         -/oyddmdhs+:.    
      -odNMMMMMMMMNNmhy+-'    
    -yNMMMMMMMMMMMNNNmmdhy+-    
  'omMMMMMMMMMMMMNmdmmmmddhhy/'    
@@ -55,6 +53,7 @@ OS: Gentoo 2.15 x86_64
 Host: github.io
 Uptime: ${timeSince2003()}
 Display: ${window.innerWidth}x${window.innerHeight}
+User: Ara (she/her)
 Github: https://github.com/agqt
 Discord: gqt
 
@@ -90,6 +89,9 @@ about: function() {
 I'm a 21-year-old poly transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
 I speak French, English, and Italian, and I'm a 4th-year physics major at the Georgia Institute of Technology.
 I also work as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
+
+I have a passion for computers and main Gentoo Linux with OpenRC. I'm also well-versed in MATLAB/GNU Octave.
+You'll usually find me active in online Gentoo communities.
 
 Current projects:
 Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
