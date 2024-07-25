@@ -12,7 +12,7 @@ intro_hor = `
          -/oyddmdhs+:.                 gqt@gentoo-linux
      -odNMMMMMMMMNNmhy+-'              ----------------
    -yNMMMMMMMMMMMNNNmmdhy+-            OS: Gentoo 2.15 x86_64
- 'omMMMMMMMMMMMMNmdmmmmddhhy/'         Host: netlify.app
+ 'omMMMMMMMMMMMMNmdmmmmddhhy/'         Host: github.io
  omMMMMMMMMMMMNhhyyyohmdddhhhdo'       Uptime: ${timeSince2003()}
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    Github: https://github.com/agqt
@@ -52,7 +52,7 @@ yMMNNNNNNNmmmmmNNMmhs+/-'
 gqt@gentoo-linux
 ----------------
 OS: Gentoo 2.15 x86_64
-Host: netlify.app
+Host: github.io
 Uptime: ${timeSince2003()}
 Display: ${window.innerWidth}x${window.innerHeight}
 Github: https://github.com/agqt
