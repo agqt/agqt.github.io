@@ -53,7 +53,7 @@ User: Ara (she/her)
 Github: https://github.com/agqt
 Discord: gqt
 
-Type help for a list of commands.
+Type help for a list of commands. Vertical layout detected! It is recommended to run 'clear' before each command.
 `
 
 function intro() {
