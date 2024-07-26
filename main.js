@@ -1,8 +1,10 @@
 function vertical() {return(window.innerWidth < 1242)}
 function timeSince2003() {
-    const diff = new Date() - new Date(2003, 2, 21);
-	const days = Math.floor(diff / 86400000);
-    return `${days} days`;
+	const diff = new Date() - new Date(2003, 2, 21);
+		const days = Math.floor(diff / 86400000);
+		const hours = Math.floor((diff % 86400000) / 3600000);
+		const mins = Math.floor(((diff % 86400000) % 3600000) / 60000);
+    return `${days} days, ${hours} hours, ${mins} mins`;
 };
 intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
      -odNMMMMMMMMNNmhy+-'              ----------------
@@ -77,6 +79,7 @@ jQuery(function($, undefined) {
 	help: Shows this output
 	about: Plain-text 'About Me'
 	name: Why Ara?
+	skills: List of things I have experience with
 	contact: Displays contact information
 JQueryTerminal:
 	neofetch: Display neofetch
@@ -114,6 +117,15 @@ I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to
 Though I haven't spoken to Reiko in years, the name stuck since, and I used it with more of my close friends until I came out on Trans Visibility Day (2022-03-31) to everyone I knew.
 There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
 },
+skills: function() {
+	this.echo(`Laboratory:
+	Optomechanics, GC-MS, image processing, microscopy, sterilization (flow hoods/autoclave), photonics, fluorescent staining, motion/area tracking, 3D printing.
+Computing:
+	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, machine learning,
+	C++, data analysis, kernel configuration, HTML, CSS, JavaScript, Google Compute Engine, CAD, git, Raspberry Pi, servers.
+Corporate:
+	LibreOffice, MS Office, Excel, Google Suite.`)
+	},
 contact: function() {
 	this.echo(`Work Email: ara@gatech.edu
 Private Email: agqt@proton.me
