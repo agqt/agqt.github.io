@@ -117,8 +117,9 @@ Though I haven't spoken to Reiko in years, the name stuck since, and I used it w
 There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
 },
 contact: function() {
-	this.echo(`	Email: agqt@proton.me
-	Discord: gqt (non-mutual friend requests: enabled)`)
+	this.echo(`Work Email: ara@gatech.edu
+Private Email: agqt@proton.me
+Discord: gqt (non-mutual friend requests: enabled)`)
         },
         hug: function() {
             this.echo("*hugs* <3")
