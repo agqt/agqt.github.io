@@ -14,7 +14,7 @@ intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
     .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Discord: gqt
        /mMMMMMMNNNmmmdddhhhhhmMNhs:    
-    'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type help for a list of commands.
+    'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type 'help' for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
  /NMMMMMMMMNNNNmmmdddmNMNdso:'    
 +MMMMMMMNNNNNmmmmdmNMNdso/-    
@@ -55,7 +55,7 @@ Discord: gqt
 
 Vertical layout detected!
 It is recommended to run 'clear' before each command.
-Type help for a list of commands.
+Type 'help' for a list of commands.
 `
 
 function intro() {
