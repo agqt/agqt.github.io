@@ -98,7 +98,7 @@ I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually
 Feel free to add me on Discord! I love talking with new people, though I get lots of spam request because of my 3 letter username :P
 
 Current projects:
-Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
+(NSF Grant) Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
 Rewriting heart area tracking program made in PoLS lab for GNU Octave.`)
         },
 name: function() {
@@ -119,12 +119,13 @@ There is probably something smart to be said here about linking the modern Elswo
 },
 skills: function() {
 	this.echo(`Laboratory:
-	Optomechanics, GC-MS, image processing, microscopy, sterilization (flow hoods/autoclave), photonics, fluorescent staining, motion/area tracking, 3D printing.
+	Optomechanics, GC-MS, image/video analysis (ImageJ/MATLAB scripts), selective-plane illumination microscopy, sterilization (flow hoods/autoclave), photonics, fluorescent staining,
+	motion/area tracking, 3D printing, confocal microscopy, data processing, circuitry.
 Computing:
-	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, machine learning,
-	C++, data analysis, kernel configuration, HTML, CSS, JavaScript, Google Compute Engine, CAD, git, Raspberry Pi, servers.
+	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, machine learning, C++, kernel configuration,
+	HTML, CSS, JavaScript, Google Compute Engine, CAD, git, Raspberry Pi, servers.
 Corporate:
-	LibreOffice, MS Office, Excel, Google Suite.`)
+	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
 contact: function() {
 	this.echo(`Work Email: ara@gatech.edu
