@@ -1,12 +1,8 @@
 function vertical() {return(window.innerWidth < 1242)}
 function timeSince2003() {
     const diff = new Date() - new Date(2003, 2, 21);
-/*    const years = Math.floor(diff / 31536000000);
-    const months = Math.floor((diff % 31536000000) / 2628000000);
-    const days = Math.floor(((diff % 31536000000) % 2628000000) / 86400000); */
 	const days = Math.floor(diff / 86400000);
     return `${days} days`;
-/*	return `${years} years, ${months} months, ${days} days`; */
 };
 intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
      -odNMMMMMMMMNNmhy+-'              ----------------
