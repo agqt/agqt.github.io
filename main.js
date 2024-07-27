@@ -108,9 +108,9 @@ You might be wondering why I chose such an obscure name. Plenty of people have a
 It was actually chosen by an online friend 'Reiko' with whom I played Elsword with for some time.
 We were thinking of potential names, and when she went through the list and found Ara Haan (韓艾拉 / Hán Àilā), we both knew it immediately fit.
 Being from Naples, Italy, the name 'Ara' was given to girls up to about several decades ago and means 'altar' in Latin, with a common spanish name Araceli being 'the altar in heaven'.
-I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to just stick with 'Ara' rather than 'Araceli,' and as dear windogs said once:
+I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to just stick with 'Ara' rather than 'Araceli,' and plus:
 
-		"ara is a bloat-free suckless name" - windogs (she uses dwm and st on her Gentoo install)
+		"ara is a bloat-free suckless name" - windogs (dwm user)
 
 Though I haven't spoken to Reiko in years, the name stuck since, and I used it with more of my close friends until I came out on Trans Visibility Day (2022-03-31) to everyone I knew.
 There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
