@@ -126,8 +126,7 @@ Corporate:
 	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
 contact: function() {
-	this.echo(`Work Email: ara@gatech.edu
-Private Email: agqt@proton.me
+	this.echo(`Private Email: agqt@proton.me
 Discord: gqt (non-mutual friend requests: enabled)`)
         },
         hug: function() {
