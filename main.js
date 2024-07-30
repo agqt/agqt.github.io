@@ -93,9 +93,13 @@ I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes
 
 I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
 
+In terms of games, I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
+I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable.
+
 Feel free to add me on Discord! I love talking with new people, though I get lots of spam request because of my 3 letter username :P
 
 Current projects:
+(NSF Grant) Simulating Rice Root Circumnutation with LAMMPS.
 (NSF Grant) Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
 Rewriting heart area tracking program made in PoLS lab for GNU Octave.`)
         },
@@ -120,8 +124,8 @@ skills: function() {
 	Optomechanics, GC-MS, image/video analysis (ImageJ/MATLAB scripts), selective-plane illumination microscopy, sterilization (flow hoods/autoclave), photonics, fluorescent staining,
 	motion/area tracking, 3D printing, confocal microscopy, data processing, circuitry.
 Computing:
-	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, machine learning, C++, kernel configuration,
-	HTML, CSS, JavaScript, Google Compute Engine, CAD, git, Raspberry Pi, servers.
+	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, C++, kernel configuration,
+	HTML, CSS, LAMMPS, Google Compute Engine, CAD, git, Raspberry Pi, servers.
 Corporate:
 	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
@@ -132,13 +136,7 @@ Discord: gqt (non-mutual friend requests: enabled)`)
         hug: function() {
             this.echo("*hugs* <3")
         },
-        hugs: function() {
-            this.echo("*hugs* <3")
-        },
 	jordan: function() {
-		this.echo("<333")
-	},
-	windogs: function() {
 		this.echo("<333")
 	},
         trans: function() {
