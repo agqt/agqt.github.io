@@ -95,7 +95,8 @@ I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes
 I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
 
 In terms of games, I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
-I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable.
+I used to play Project SEKAI a lot too, reaching Top 200 globally in "That day, the Sky was Far Away." Stopped because acute carpal. Huge mizuena stan. Want to cosplay as Mizuki one day but my partner Jordan says I'm more of an Ena...
+I also used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable.
 
 Feel free to add me on Discord! I love talking with new people, though I get lots of spam request because of my 3 letter username :P
 
