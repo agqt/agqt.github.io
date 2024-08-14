@@ -72,12 +72,13 @@ jQuery(function($, undefined) {
         neofetch: function() {
             this.echo(intro())
         },
-        help: function() {
-		this.echo(`Site-Specific:
+help: function() {
+	this.echo(`Site-Specific:
 	help: Shows this output
-	about: Plain-text 'About Me'
+	about: About me!
 	name: Why Ara?
 	skills: List of things I have experience with
+	riscv: RISC-V devblog with monthly updates
 	contact: Displays contact information
 JQueryTerminal:
 	neofetch: Display neofetch
@@ -88,7 +89,7 @@ about: function() {
 
 I'm a 21-year-old poly transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
 I speak French, English, and Italian, and I'm a 4th-year physics major at the Georgia Institute of Technology.
-I also work as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
+I also worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab, leaving in August 2024 to focus on graduation.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 
 I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
@@ -99,10 +100,17 @@ I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were 
 Feel free to add me on Discord! I love talking with new people, though I get lots of spam request because of my 3 letter username :P
 
 Current projects:
-(NSF Grant) Simulating Rice Root Circumnutation with LAMMPS.
-(NSF Grant) Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
-Rewriting heart area tracking program made in PoLS lab for GNU Octave.`)
+Rewriting heart area tracking program made in PoLS lab for GNU Octave.
+(Pending Approval) RISC-V devboard testing of Gentoo Linux packages.
+
+Past projects:
+(NSF Grant) Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.`)
         },
+riscv: function() {
+	this.echo(`RISC-V Development Blog (WIP)
+
+Didn't get approved yet :3 but if I don't I'll probably just get a Lichee Pi 4 anyways and post updates on testing.`)
+	},
 name: function() {
 	this.echo(`Ara (pronunciation: a-ra (italian), ah-ruh (anglicized) (please forgive me idk IPA))
 
@@ -136,9 +144,15 @@ Discord: gqt (non-mutual friend requests: enabled)`)
         hug: function() {
             this.echo("*hugs* <3")
         },
+	hugs: function() {
+            this.echo("*hugs* <3")
+        },
 	jordan: function() {
 		this.echo("<333")
 	},
+	windogs: function() {
+                this.echo("<333")
+        },
         trans: function() {
                 this.echo("rights!")
         }
