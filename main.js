@@ -126,7 +126,7 @@ We were thinking of potential names, and when she went through the list and foun
 Being from Naples, Italy, the name 'Ara' was given to girls up to about several decades ago and means 'altar' in Latin, with a common spanish name Araceli being 'the altar in heaven'.
 I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to just stick with 'Ara' rather than 'Araceli,' and plus:
 
-		"ara is a bloat-free suckless name" - windogs (dwm user)
+		"ara is a bloat-free suckless name" - anonymous dwm user
 
 Though I haven't spoken to Reiko in years, the name stuck since, and I used it with more of my close friends until I came out on Trans Visibility Day (2022-03-31) to everyone I knew.
 There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
@@ -154,9 +154,6 @@ Discord: gqt (non-mutual friend requests: enabled)`)
 	jordan: function() {
 		this.echo("<333")
 	},
-	windogs: function() {
-                this.echo("<333")
-        },
         trans: function() {
                 this.echo("rights!")
         }
