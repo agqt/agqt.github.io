@@ -87,7 +87,7 @@ JQueryTerminal:
 about: function() {
             this.echo(`Hi! I'm Ara (she/her)
 
-I'm a 21-year-old poly transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
+I'm a 21-year-old transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
 I speak French, English, and Italian, and I'm a 4th-year physics major at the Georgia Institute of Technology.
 I also worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab, leaving in August 2024 to focus on graduation.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
@@ -97,11 +97,13 @@ I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually
 In terms of games, I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
 I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable.
 
-Feel free to add me on Discord! I love talking with new people, though I get lots of spam request because of my 3 letter username :P
+Feel free to add me on Discord!
+
+Engaged to Jordan <3
 
 Current projects:
 Rewriting heart area tracking program made in PoLS lab for GNU Octave.
-(Pending Approval) RISC-V devboard testing of Gentoo Linux packages.
+RISC-V devboard testing of Gentoo Linux packages.
 
 Past projects:
 (NSF Grant) Georgia Tech, 2023-2024: Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
@@ -111,9 +113,8 @@ Gulcicek Kimya, 2019: Temporal Evaporation Profiles of Individual Aroma Substanc
 `)
         },
 riscv: function() {
-	this.echo(`RISC-V Development Blog (WIP)
-
-Didn't get approved yet :3 but if I don't I'll probably just get a Lichee Pi 4 anyways and post updates on testing.`)
+	this.echo(`RISC-V Development Blog
+2024-10-19: The RISC-V Lichee Pi 4A board finally arrived after getting approved for the RISC-V development program. I have yet to be able to put Gentoo on it, but some have had success using a custom kernel and U-Boot. I will try that and report on package testing once I have more time. I plan to use dwm with x11 for minimal resource use.`)
 	},
 name: function() {
 	this.echo(`Ara (pronunciation: a-ra (italian), ah-ruh (anglicized) (please forgive me idk IPA))
@@ -126,7 +127,7 @@ We were thinking of potential names, and when she went through the list and foun
 Being from Naples, Italy, the name 'Ara' was given to girls up to about several decades ago and means 'altar' in Latin, with a common spanish name Araceli being 'the altar in heaven'.
 I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to just stick with 'Ara' rather than 'Araceli,' and plus:
 
-		"ara is a bloat-free suckless name" - anonymous dwm user
+		"ara is a bloat-free suckless name" - windogs (dwm user)
 
 Though I haven't spoken to Reiko in years, the name stuck since, and I used it with more of my close friends until I came out on Trans Visibility Day (2022-03-31) to everyone I knew.
 There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
@@ -154,6 +155,9 @@ Discord: gqt (non-mutual friend requests: enabled)`)
 	jordan: function() {
 		this.echo("<333")
 	},
+	windogs: function() {
+                this.echo("<333")
+        },
         trans: function() {
                 this.echo("rights!")
         }
