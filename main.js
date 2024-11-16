@@ -87,17 +87,19 @@ JQueryTerminal:
 about: function() {
             this.echo(`Hi! I'm Ara (she/her)
 
-I'm a 21-year-old transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
+I'm a 21-year-old poly transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
 I speak French, English, and Italian, and I'm a 4th-year physics major at the Georgia Institute of Technology.
 I also worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab, leaving in August 2024 to focus on graduation.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 
 I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
 
-In terms of games, I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
-I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable.
+My outright favorite show is House and I've rewatched it a bunch of times, literally obsessed with it. If you like it too, there's a good chance we'll get along :P. I also enjoyed Suits a lot.
 
-Feel free to add me on Discord!
+I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
+I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable (lived all around the world).
+
+Feel free to add me on Discord! (see contact)
 
 Engaged to Jordan <3
 
