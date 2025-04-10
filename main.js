@@ -14,7 +14,7 @@ intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    User: Ara (she/her)
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Discord: sikeotic
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Email: gqt@cumallover.me
        /mMMMMMMNNNmmmdddhhhhhmMNhs:    
     'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type 'help' for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
