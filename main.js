@@ -14,7 +14,7 @@ intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    User: Ara (she/her)
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Discord: gqt
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Discord: sikeotic
        /mMMMMMMNNNmmmdddhhhhhmMNhs:    
     'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type 'help' for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
@@ -53,7 +53,7 @@ Uptime: ${timeSince2003()}
 Display: ${window.innerWidth}x${window.innerHeight}
 User: Ara (she/her)
 Github: https://github.com/agqt
-Discord: gqt
+Email: gqt@cumallover.me
 
 Type 'help' for a list of commands.
 `
@@ -87,19 +87,17 @@ JQueryTerminal:
 about: function() {
             this.echo(`Hi! I'm Ara (she/her)
 
-I'm a 21-year-old poly transgirl from France/Italy/USA/Croatia (quadruple citizenship :3)
-I speak French, English, and Italian, and I'm a 4th-year physics major at the Georgia Institute of Technology.
-I also worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab, leaving in August 2024 to focus on graduation.
+I'm a 22-year-old transgirl from France/Italy, and I speak French, English, and Italian fluently. I have a BSc. in Physics from Georgia Tech ('25). 
+At my time there, I worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
-
+I am also proud to be part of the RISC-V Devboards Program, working on expanding RISC-V support for Gentoo Linux packages.
 I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
 
-My outright favorite show is House and I've rewatched it a bunch of times, literally obsessed with it. If you like it too, there's a good chance we'll get along :P. I also enjoyed Suits a lot.
+My outright favorite show is House MD and I've rewatched it a bunch of times. If you like it too, there's a good chance we'll get along.
 
-I mainly play Cyberpunk 2077, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or Needy Streamer Overdose.
-I used to play a lot of CS:GO until I moved to the US, since EU/SG servers were far more enjoyable (lived all around the world).
+I mainly play Cyberpunk 2077, Counter Strike, Starbound, Minecraft, and indie games like Rain World, BoI Rebirth, or NSO.
 
-Feel free to add me on Discord! (see contact)
+If you would like to contact me for some reason, feel free to reach out at gqt@cumallover.me
 
 Engaged to Jordan <3
 
@@ -121,18 +119,17 @@ riscv: function() {
 name: function() {
 	this.echo(`Ara (pronunciation: a-ra (italian), ah-ruh (anglicized) (please forgive me idk IPA))
 
-You might be wondering why I chose such an obscure name. Plenty of people have asked me this, and I keep giving short, inconsistent answers.
-'Ara' is a name I've used online since, as far as I can tell, October 2020 (pandemic gave me the time to dig into my unease with my gender identity).
+I get asked a lot about the meaning of my name or why I picked it.
+'Ara' is a name I've used online since, as far as I can tell, October 2020 (pandemic gave me the time to dig into my gender identity).
 
-It was actually chosen by an online friend 'Reiko' with whom I played Elsword with for some time.
+It was actually chosen by an online friend with whom I played Elsword with for some time.
 We were thinking of potential names, and when she went through the list and found Ara Haan (韓艾拉 / Hán Àilā), we both knew it immediately fit.
-Being from Naples, Italy, the name 'Ara' was given to girls up to about several decades ago and means 'altar' in Latin, with a common spanish name Araceli being 'the altar in heaven'.
+Being from Naples, Italy, the name Ara/Araceli was given to girls up to about several decades ago and means 'altar' in Latin, with a common Spanish name Araceli being 'the altar in heaven'.
 I wasn't feeling religious vibes (and I'm also not Spanish lol), so I decided to just stick with 'Ara' rather than 'Araceli,' and plus:
 
-		"ara is a bloat-free suckless name" - windogs (dwm user)
-
-Though I haven't spoken to Reiko in years, the name stuck since, and I used it with more of my close friends until I came out on Trans Visibility Day (2022-03-31) to everyone I knew.
-There is probably something smart to be said here about linking the modern Elsword with the ancient Roman altars of heaven, but I'm too lazy to find it :P`)
+		"ara is a bloat-free suckless name" - anonymous dwm user
+  
+There is probably something smart to be said here about linking Elsword with ancient Roman altars of heaven, but I'm too lazy to find it :P`)
 },
 skills: function() {
 	this.echo(`Laboratory:
@@ -140,7 +137,7 @@ skills: function() {
 	motion/area tracking, 3D printing, confocal microscopy, data processing, circuitry.
 Computing:
 	OpenSSH, MATLAB, Fusion 360, GNU Octave, PASCO, LaTeX, Linux (Gentoo/Fedora/Ubuntu), GNU Coreutils, Emulation, ImageJ, DLTdv8, Arduino, C++, kernel configuration,
-	HTML, CSS, LAMMPS, Google Compute Engine, CAD, git, Raspberry Pi, servers.
+	HTML, CSS, LAMMPS, Google Compute Engine, CAD, git, Raspberry Pi, RISC-V Devboards, servers.
 Corporate:
 	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
@@ -157,9 +154,6 @@ Discord: gqt (non-mutual friend requests: enabled)`)
 	jordan: function() {
 		this.echo("<333")
 	},
-	windogs: function() {
-                this.echo("<333")
-        },
         trans: function() {
                 this.echo("rights!")
         }
