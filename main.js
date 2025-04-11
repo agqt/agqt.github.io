@@ -79,7 +79,6 @@ help: function() {
 	name: Why Ara?
 	skills: List of things I have experience with
 	riscv: RISC-V devblog with monthly updates
-	contact: Displays contact information
 JQueryTerminal:
 	neofetch: Display neofetch
 	clear: Clears the display`)
@@ -148,9 +147,6 @@ Computing:
 Corporate:
 	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
-contact: function() {
-	this.echo(`Private Email: gqt@cumallover.me`)
-        },
         hug: function() {
             this.echo("*hugs* <3")
         },
