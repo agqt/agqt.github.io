@@ -87,7 +87,7 @@ JQueryTerminal:
 about: function() {
             this.echo(`Hi! I'm Ara (she/her)
 
-I'm a 22-year-old transgirl from France/Italy, and I speak French, English, and Italian fluently. I have a BSc. in Physics from Georgia Tech ('25). 
+I'm a 22-year-old transgirl from France/Italy. I have a BSc. in Physics from Georgia Tech ('25). 
 At my time there, I worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 I am also proud to be part of the RISC-V Devboards Program, working on expanding RISC-V support for Gentoo Linux packages.
@@ -103,7 +103,7 @@ Engaged to Jordan <3
 
 Current projects:
 Rewriting heart area tracking program made in PoLS lab for GNU Octave.
-RISC-V devboard testing of Gentoo Linux packages.
+(RISC-V Devboards Program) RISC-V architecture testing of Gentoo Linux packages with patches.
 
 Past projects:
 (NSF Grant) Georgia Tech, 2023-2024: Selective-Plane Illumination Microscopy via UV Excitation of Phenylcoumarone Structures in Rice Roots.
@@ -149,8 +149,7 @@ Corporate:
 	LibreOffice, MS Office, Outlook, Excel, Google Suite.`)
 	},
 contact: function() {
-	this.echo(`Private Email: agqt@proton.me
-Discord: gqt (non-mutual friend requests: enabled)`)
+	this.echo(`Private Email: gqt@cumallover.me`)
         },
         hug: function() {
             this.echo("*hugs* <3")
