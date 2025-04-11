@@ -114,10 +114,14 @@ Gulcicek Kimya, 2019: Temporal Evaporation Profiles of Individual Aroma Substanc
         },
 riscv: function() {
 	this.echo(`RISC-V Development Blog
-2025-04-10:	Being stuck on RISC-V, I've made some GRUB patches to enable loading of devicetree maps for arm64 that allowed me to make a custom install working on my arm machine's native hardware (Yoga Slim 7x).
-		Had to copy over the proprietary firmware from W*ndows, but I don't see this being an issue with the open-source nature of RISC-V. Once I am back in France, I will be much more active on RISC-V projects.
-2024-10-19:	The RISC-V Lichee Pi 4A board finally arrived after getting approved for the RISC-V development program. I have yet to be able to put Gentoo on it, but some have had success using a custom kernel and U-Boot.
-		I will try that and report on package testing once I have more time. I plan to use dwm with x11 for minimal resource use.`)
+=======================
+2025-04-10:
+Being stuck on RISC-V, I've made some GRUB patches to enable loading of devicetree maps for arm64 that allowed me to make a custom install working on my arm machine's native hardware (Yoga Slim 7x).
+Had to copy over the proprietary firmware from W*ndows, but I don't see this being an issue with the open-source nature of RISC-V. Once I am back in France, I will be much more active on RISC-V projects.
+
+2024-10-19:
+The RISC-V Lichee Pi 4A board finally arrived after getting approved for the RISC-V development program. I have yet to be able to put Gentoo on it, but some have had success using a custom kernel and U-Boot.
+I will try that and report on package testing once I have more time. I plan to use dwm with x11 for minimal resource use.`)
 	},
 name: function() {
 	this.echo(`Ara (pronunciation: a-ra (italian), ah-ruh (anglicized) (please forgive me idk IPA))
