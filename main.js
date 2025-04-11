@@ -91,7 +91,7 @@ I'm a 22-year-old transgirl from France/Italy, and I speak French, English, and 
 At my time there, I worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 I am also proud to be part of the RISC-V Devboards Program, working on expanding RISC-V support for Gentoo Linux packages.
-I have a passion for computers and main Gentoo Linux with OpenRC. You'll usually find me active in online Gentoo communities, or filing bug reports for ebuilds.
+I have a passion for computers and have mained Gentoo Linux with OpenRC since mid 2024. You'll usually find me active in online Gentoo communities under the usernames "gqt/sikeotic", or filing bug reports for ebuilds.
 
 My outright favorite show is House MD and I've rewatched it a bunch of times. If you like it too, there's a good chance we'll get along.
 
@@ -114,7 +114,10 @@ Gulcicek Kimya, 2019: Temporal Evaporation Profiles of Individual Aroma Substanc
         },
 riscv: function() {
 	this.echo(`RISC-V Development Blog
-2024-10-19: The RISC-V Lichee Pi 4A board finally arrived after getting approved for the RISC-V development program. I have yet to be able to put Gentoo on it, but some have had success using a custom kernel and U-Boot. I will try that and report on package testing once I have more time. I plan to use dwm with x11 for minimal resource use.`)
+2025-04-10:	Being stuck on RISC-V, I've made some GRUB patches to enable loading of devicetree maps for arm64 that allowed me to make a custom install working on my arm machine's native hardware (Yoga Slim 7x).
+		Had to copy over the proprietary firmware from W*ndows, but I don't see this being an issue with the open-source nature of RISC-V. Once I am back in France, I will be much more active on RISC-V projects.
+2024-10-19:	The RISC-V Lichee Pi 4A board finally arrived after getting approved for the RISC-V development program. I have yet to be able to put Gentoo on it, but some have had success using a custom kernel and U-Boot.
+		I will try that and report on package testing once I have more time. I plan to use dwm with x11 for minimal resource use.`)
 	},
 name: function() {
 	this.echo(`Ara (pronunciation: a-ra (italian), ah-ruh (anglicized) (please forgive me idk IPA))
