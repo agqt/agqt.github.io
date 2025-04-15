@@ -14,7 +14,7 @@ intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    User: Ara (she/her)
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Email: gqt@cumallover.me
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Email: agqt@pm.me
        /mMMMMMMNNNmmmdddhhhhhmMNhs:    
     'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type 'help' for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
@@ -53,7 +53,7 @@ Uptime: ${timeSince2003()}
 Display: ${window.innerWidth}x${window.innerHeight}
 User: Ara (she/her)
 Github: https://github.com/agqt
-Email: gqt@cumallover.me
+Email: agqt@pm.me
 
 Type 'help' for a list of commands.
 `
@@ -86,7 +86,7 @@ JQueryTerminal:
 about: function() {
             this.echo(`Hi! I'm Ara (she/her)
 
-I'm a 22-year-old transgirl from France/Italy. I have a BSc. in Physics from Georgia Tech ('25). 
+I'm a 22-year-old transgirl from France/Italy. I have a Bachelor's in Physics from Georgia Tech ('25). 
 At my time there, I worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 I am also proud to be part of the RISC-V Devboards Program, working on expanding RISC-V support for Gentoo Linux packages.
