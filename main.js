@@ -14,7 +14,7 @@ intro_hor = `         -/oyddmdhs+:.                 gqt@gentoo-linux
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+'     Display: ${window.innerWidth}x${window.innerHeight}
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    User: Ara (she/her)
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Github: https://github.com/agqt
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Email: agqt@pm.me
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Email: gqt@cumallover.me
        /mMMMMMMNNNmmmdddhhhhhmMNhs:    
     'oNMMMMMMMNNNmmmddddhhdmMNhs+'     Type 'help' for a list of commands.
   'sNMMMMMMMMNNNmmmdddddmNMmhs/.    
@@ -53,7 +53,7 @@ Uptime: ${timeSince2003()}
 Display: ${window.innerWidth}x${window.innerHeight}
 User: Ara (she/her)
 Github: https://github.com/agqt
-Email: agqt@pm.me
+Email: gqt@cumallover.me
 
 Type 'help' for a list of commands.
 `
@@ -90,7 +90,7 @@ I'm a 22-year-old transgirl from France/Italy. I have a Bachelor's in Physics fr
 At my time there, I worked for 1.5 years as an undergraduate researcher at the Complex Rheology and Biomechanics Lab.
 I'm well-versed in MATLAB/GNU Octave, having made plenty of projects for classes/research/personal projects, some of which I will rewrite to be compatible with GNU Octave and upload to my github over time.
 I am also proud to be part of the RISC-V Devboards Program, working on expanding RISC-V support for Gentoo Linux packages.
-I have a passion for computers and have mained Gentoo Linux with OpenRC since mid 2024. You'll usually find me active in online Gentoo communities under the usernames "gqt/sikeotic", or filing bug reports for ebuilds.
+I have a passion for computers and have mained Gentoo Linux with OpenRC since mid 2024. You'll usually find me active in online Gentoo communities under the username "gqt", or filing bug reports for ebuilds.
 
 My outright favorite show is House MD and I've rewatched it a bunch of times. If you like it too, there's a good chance we'll get along.
 
